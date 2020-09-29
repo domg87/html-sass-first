@@ -1,0 +1,18 @@
+// variabili
+$coloreProva: blue;
+
+body {
+    background-color: lightgrey;
+}
+
+h2 {
+    color: $coloreProva;
+}
+
+p {
+    color: $coloreProva;
+}
+
+h1 {
+    color: #000;
+}
